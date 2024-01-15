@@ -18,7 +18,7 @@
         <div class="font-light text-[14px] mt-[3px]"><span class="font-semibold">Voordeligste</span> aanbieder</div>
       </div>
     </ul>
-    <ul class="flex">
+    <ul class="lg:flex hidden">
       <div class="mr-3"><img src="./components/icons/contact-icon.svg" width="24px" alt="contact-icon"></div>
       <div class="align-middle">
         <div class="font-light text-[14px] mt-[3px]"><span class="font-semibold">24/7</span> noodnummer</div>
@@ -30,7 +30,7 @@
         <div class="font-light text-[14px] mt-[3px]"><span class="font-semibold">Geen</span> extra kosten</div>
       </div>
     </ul>
-    <ul class="lg:flex hidden">
+    <ul class="flex">
       <div class="mr-3"><img src="./components/icons/people-icon.svg" width="24px" alt="people-icon"></div>
       <div class="align-middle">
         <div class="font-light text-[14px] mt-[3px]"><span class="font-semibold">Zitplaatsen</span> bij elkaar</div>
