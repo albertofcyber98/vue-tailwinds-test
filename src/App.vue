@@ -44,7 +44,7 @@
     </ul>
   </section>
   <section class="px-[16px] lg:px-[100px] py-[20px] lg:py-[40px]">
-    <h1 class="text-[32px] font-semibold mb-[40px]">Neem contact op</h1>
+    <h1 class="text-[32px] font-semibold mb-[25px] lg:mb-[40px]">Neem contact op</h1>
     <div class="grid grid-cols-1 lg:grid-cols-2 gap-4">
       <div class="px-[24px] py-[24px] border-[1px] rounded-2xl mb-4">
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-4">
