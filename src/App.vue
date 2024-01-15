@@ -186,7 +186,7 @@ header {
 }
 
 .bg-map {
-  background-image: url('./components/imgs/map.png');
+  background-image: url('./components/imgs/maps.png');
   background-size: cover;
   background-position: center center;
   height: 250px;
